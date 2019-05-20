@@ -1,5 +1,5 @@
 # Description
-Split an audio or video file by using a srt timing file.
+A Saber Copy like app for mac.
 
 # Requirements
 [NodeJS](https://nodejs.org/en/)  
@@ -10,7 +10,7 @@ You will need to have ffmpeg available in your system path. The easiest way to d
 Clone or download this repository.  
 Then in a terminal do the following.
 ```bash
-cd split-media-by-srt-gui 
+cd ssaber-copy-mac-gui 
 npm install
 ```
 
